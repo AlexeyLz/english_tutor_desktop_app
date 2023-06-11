@@ -1,0 +1,19 @@
+ON
+
+With the days of the week:
+-on Thursday
+-on Friday
++ on weekends (!)
+
+The day of the week + part of the day:
+-on Tuesday morning
+-on Friday night (Friday evening)
+
+With dates:
+-on the 1st of July
+-on the 14th of March
+
+holidays:
+-on Christmas Day
+-on Christmas Eve
+-on my birthday

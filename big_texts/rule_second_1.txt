@@ -1,0 +1,27 @@
+AT
+
+When specifying the exact time:
+-at one o'clock
+-at 9 pm
+-at noon
+
+With the word time:
+-at the same time
+-at bedtime
+-at breakfast time
+-at dinner time
+
+When specifying the time of day:
+at night
+-in the morning
+-in the afternoon
+-in the evening
+
+To indicate age:
+-at 18
+-at the age of 35
+
+With the names of the holidays:
+-at Easter
+-at New Yea
+-at Christmas
